@@ -1,0 +1,10 @@
+{
+  "name": "Christmas Wallpapers",
+  "description": "Eigen kerst achtergronden",
+  "scenes": [
+    "landscape"
+  ],
+  "manifestUrl": "https://raw.githubusercontent.com/THX1180/tv-wallpapers/refs/heads/main/wallpapers.json",
+  "local": false,
+  "cacheable": true
+}
