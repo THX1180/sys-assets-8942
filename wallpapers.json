@@ -1,58 +1,56 @@
-{
-  "assets": [
-    {
-      "id": "christmas_cotswolds",
-      "accessibilityLabel": "Christmas Cotswolds",
-      "type": "aerial",
-      "url-1080-SDR": "https://github.com"
-    },
-    {
-      "id": "christmas_cottage",
-      "accessibilityLabel": "Christmas Cottage",
-      "type": "aerial",
-      "url-1080-SDR": "https://github.com"
-    },
-    {
-      "id": "christmas_cozy",
-      "accessibilityLabel": "Christmas Cozy",
-      "type": "aerial",
-      "url-1080-SDR": "https://github.com"
-    },
-    {
-      "id": "christmas_living_1",
-      "accessibilityLabel": "Christmas Living",
-      "type": "aerial",
-      "url-1080-SDR": "https://github.com"
-    },
-    {
-      "id": "christmas_town",
-      "accessibilityLabel": "Christmas Town",
-      "type": "aerial",
-      "url-1080-SDR": "https://github.com"
-    },
-    {
-      "id": "christmas_village",
-      "accessibilityLabel": "Christmas Village",
-      "type": "aerial",
-      "url-1080-SDR": "https://github.com"
-    },
-    {
-      "id": "christmas_wonderland",
-      "accessibilityLabel": "Christmas Wonderland",
-      "type": "aerial",
-      "url-1080-SDR": "https://github.com"
-    },
-    {
-      "id": "santas_castle",
-      "accessibilityLabel": "Santa's Castle",
-      "type": "aerial",
-      "url-1080-SDR": "https://github.com"
-    },
-    {
-      "id": "winter_village",
-      "accessibilityLabel": "Winter Village",
-      "type": "aerial",
-      "url-1080-SDR": "https://github.com"
-    }
-  ]
-}
+[
+  {
+    "title": "Christmas Cotswolds",
+    "location": "Kerst Collectie",
+    "url_1080p": "https://github.com",
+    "url_4k": "https://github.com"
+  },
+  {
+    "title": "Christmas Cottage",
+    "location": "Kerst Collectie",
+    "url_1080p": "https://github.com",
+    "url_4k": "https://github.com"
+  },
+  {
+    "title": "Christmas Cozy",
+    "location": "Kerst Collectie",
+    "url_1080p": "https://github.com",
+    "url_4k": "https://github.com"
+  },
+  {
+    "title": "Christmas Living",
+    "location": "Kerst Collectie",
+    "url_1080p": "https://github.com",
+    "url_4k": "https://github.com"
+  },
+  {
+    "title": "Christmas Town",
+    "location": "Kerst Collectie",
+    "url_1080p": "https://github.com",
+    "url_4k": "https://github.com"
+  },
+  {
+    "title": "Christmas Village",
+    "location": "Kerst Collectie",
+    "url_1080p": "https://github.com",
+    "url_4k": "https://github.com"
+  },
+  {
+    "title": "Christmas Wonderland",
+    "location": "Kerst Collectie",
+    "url_1080p": "https://github.com",
+    "url_4k": "https://github.com"
+  },
+  {
+    "title": "Santa's Castle",
+    "location": "Kerst Collectie",
+    "url_1080p": "https://github.com",
+    "url_4k": "https://github.com"
+  },
+  {
+    "title": "Winter Village",
+    "location": "Kerst Collectie",
+    "url_1080p": "https://github.com",
+    "url_4k": "https://github.com"
+  }
+]
