@@ -1,0 +1,58 @@
+{
+  "assets": [
+    {
+      "id": "christmas_cotswolds",
+      "accessibilityLabel": "Christmas Cotswolds",
+      "type": "aerial",
+      "url-1080-SDR": "https://github.com"
+    },
+    {
+      "id": "christmas_cottage",
+      "accessibilityLabel": "Christmas Cottage",
+      "type": "aerial",
+      "url-1080-SDR": "https://github.com"
+    },
+    {
+      "id": "christmas_cozy",
+      "accessibilityLabel": "Christmas Cozy",
+      "type": "aerial",
+      "url-1080-SDR": "https://github.com"
+    },
+    {
+      "id": "christmas_living_1",
+      "accessibilityLabel": "Christmas Living",
+      "type": "aerial",
+      "url-1080-SDR": "https://github.com"
+    },
+    {
+      "id": "christmas_town",
+      "accessibilityLabel": "Christmas Town",
+      "type": "aerial",
+      "url-1080-SDR": "https://github.com"
+    },
+    {
+      "id": "christmas_village",
+      "accessibilityLabel": "Christmas Village",
+      "type": "aerial",
+      "url-1080-SDR": "https://github.com"
+    },
+    {
+      "id": "christmas_wonderland",
+      "accessibilityLabel": "Christmas Wonderland",
+      "type": "aerial",
+      "url-1080-SDR": "https://github.com"
+    },
+    {
+      "id": "santas_castle",
+      "accessibilityLabel": "Santa's Castle",
+      "type": "aerial",
+      "url-1080-SDR": "https://github.com"
+    },
+    {
+      "id": "winter_village",
+      "accessibilityLabel": "Winter Village",
+      "type": "aerial",
+      "url-1080-SDR": "https://github.com"
+    }
+  ]
+}
