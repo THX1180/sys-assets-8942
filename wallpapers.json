@@ -1,55 +1,61 @@
 [
   {
     "title": "Christmas Cotswolds",
-    "location": "Kerst Collectie",
+    "location": "sys-assets-8942",
     "url_1080p": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.COTSWOLDS.mp4",
     "url_4k": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.COTSWOLDS.mp4"
   },
   {
     "title": "Christmas Cottage",
-    "location": "Kerst Collectie",
+    "location": "sys-assets-8942",
     "url_1080p": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.COTTAGE.mp4",
     "url_4k": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.COTTAGE.mp4"
   },
   {
     "title": "Christmas Cozy",
-    "location": "Kerst Collectie",
+    "location": "sys-assets-8942",
     "url_1080p": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.COZY.mp4",
     "url_4k": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.COZY.mp4"
   },
   {
-    "title": "Christmas Living",
-    "location": "Kerst Collectie",
+    "title": "Christmas Living 1",
+    "location": "sys-assets-8942",
     "url_1080p": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.LIVING_1.mp4",
     "url_4k": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.LIVING_1.mp4"
   },
   {
     "title": "Christmas Town",
-    "location": "Kerst Collectie",
+    "location": "sys-assets-8942",
     "url_1080p": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.TOWN.mp4",
     "url_4k": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.TOWN.mp4"
   },
   {
+    "title": "Christmas Train 1",
+    "location": "sys-assets-8942",
+    "url_1080p": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.TRAIN_1.mp4",
+    "url_4k": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.TRAIN_1.mp4"
+  },
+  {
     "title": "Christmas Village",
-    "location": "Kerst Collectie",
+    "location": "sys-assets-8942",
     "url_1080p": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.VILLAGE.mp4",
     "url_4k": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.VILLAGE.mp4"
   },
   {
     "title": "Christmas Wonderland",
-    "location": "Kerst Collectie",
+    "location": "sys-assets-8942",
     "url_1080p": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.WONDERLAND.mp4",
     "url_4k": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.WONDERLAND.mp4"
   },
   {
-    "title": "Santa's Castle",
-    "location": "Kerst Collectie",
+    "title": "Santa S Castle",
+    "location": "sys-assets-8942",
     "url_1080p": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/SANTA.S.CASTLE.mp4",
     "url_4k": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/SANTA.S.CASTLE.mp4"
   },
   {
     "title": "Winter Village",
-    "location": "Kerst Collectie",
+    "location": "sys-assets-8942",
     "url_1080p": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/WINTER.VILLAGE.mp4",
     "url_4k": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/WINTER.VILLAGE.mp4"
   }
