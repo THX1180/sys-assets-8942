@@ -1,5 +1,11 @@
 [
   {
+    "title": "Christmas Bookstore",
+    "location": "sys-assets-8942",
+    "url_1080p": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.BOOKSTORE.mp4",
+    "url_4k": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.BOOKSTORE.mp4"
+  },
+  {
     "title": "Christmas Cotswolds",
     "location": "sys-assets-8942",
     "url_1080p": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.COTSWOLDS.mp4",
@@ -30,12 +36,6 @@
     "url_4k": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.TOWN.mp4"
   },
   {
-    "title": "Christmas Train 1",
-    "location": "sys-assets-8942",
-    "url_1080p": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.TRAIN_1.mp4",
-    "url_4k": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.TRAIN_1.mp4"
-  },
-  {
     "title": "Christmas Village",
     "location": "sys-assets-8942",
     "url_1080p": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.VILLAGE.mp4",
@@ -48,10 +48,22 @@
     "url_4k": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/CHRISTMAS.WONDERLAND.mp4"
   },
   {
+    "title": "Cozy Christmas Escape",
+    "location": "sys-assets-8942",
+    "url_1080p": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/COZY.CHRISTMAS.ESCAPE.mp4",
+    "url_4k": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/COZY.CHRISTMAS.ESCAPE.mp4"
+  },
+  {
     "title": "Santa S Castle",
     "location": "sys-assets-8942",
     "url_1080p": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/SANTA.S.CASTLE.mp4",
     "url_4k": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/SANTA.S.CASTLE.mp4"
+  },
+  {
+    "title": "When Golden Christmas",
+    "location": "sys-assets-8942",
+    "url_1080p": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/WHEN.GOLDEN.CHRISTMAS.mp4",
+    "url_4k": "https://github.com/THX1180/sys-assets-8942/releases/download/v1.0/WHEN.GOLDEN.CHRISTMAS.mp4"
   },
   {
     "title": "Winter Village",
