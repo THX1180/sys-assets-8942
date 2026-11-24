@@ -35,7 +35,8 @@ jobs:
               for asset in rel.get("assets", []):
                   name = asset["name"]
                   if name.lower().endswith((".mp4", ".mkv", ".webm")):
-                      clean_title = name.rsplit(".", 1)[0].replace(".", " ").replace("_", " ").title()
+                      base_name, _ = os.path.splitext(name)
+                      clean_title = base_name.replace(".", " ").replace("_", " ").title()
                       url = asset["browser_download_url"]
                       wallpapers.append({
                           "title": clean_title,
